@@ -1,6 +1,6 @@
 # 🎨 GeoMagic 🧠 Art Machine
 
-🎯 **Live Demo:** [Demo Link](https://sunnysanwar.github.io/geometrize-haxe-web/)
+🎯 **Live Demo:** [GeoMagic-Art-Machine](https://sunnysanwar.github.io/geometrize-haxe-web/)
 
 > Transform your images into stunning abstract art by evolving colorful geometric shapes rendered dynamically on an HTML5 Canvas. Watch your images come alive with triangles, ellipses, curves, and more — all in real time with creative algorithms.
 
@@ -47,8 +47,8 @@ GeoMagic uses an HTML5 canvas to dynamically render your uploaded image as a com
 
 ## 📷 Example Outputs
 
-![Example Butterfly](https://github.com/sunnysanwar/geometrize-haxe-web/assets/images/example_butterfly.png)
-![Example Flower](https://github.com/sunnysanwar/geometrize-haxe-web/assets/images/example_flower.png)
+![Example Flower](https://github.com/sunnysanwar/geometrize-haxe-web/blob/main/screenshots/flower.png)
+![Example Butterfly](https://github.com/sunnysanwar/geometrize-haxe-web/blob/main/screenshots/monarch_butterfly.png)
 
 ## 📄 License
 
